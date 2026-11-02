@@ -2,17 +2,18 @@
 
 > Auto-updated weekly by [GitHub Actions](workflows/collect_usage_metrics.yml).
 
-#### Oct 2026 (2026-10)
+#### Nov 2026 (2026-11)
 
-**Local use** — Desktop installs: **319** · GitHub clones: **—**
+**Local use** — Desktop installs: **324** · GitHub clones: **—**
 
-**Wider use** — Colab/Linux: **3853** · Countries: **11**
+**Wider use** — Colab/Linux: **4486**
 
 ### Monthly Breakdown
 
 | Month | PyPI: Desktop (Win+Mac) | PyPI: Colab/Linux | PyPI: Other/Unknown | PyPI: Countries | GitHub: Clones | GitHub: Stars | Release |
 |-------|------------------------:|------------------:|--------------------:|----------------:|---------------:|--------------:|---------|
-| 2026-10 | 319 | 3853 | 1956 | 11 | — | 40 | 3.0.0a22 |
+| 2026-11 | 324 | 4486 | 2070 | — | — | 42 |  |
+| 2026-10 | 319 | 3853 | 1956 | 11 | — |  | 3.0.0a22 |
 | 2026-09 | — | — | — | 31 | — |  | 3.0.0a18 |
 | 2026-08 | — | — | — | — | — |  | 3.0.0a17 |
 | 2026-07 | — | — | — | — | — |  | 3.0.0a16 |
